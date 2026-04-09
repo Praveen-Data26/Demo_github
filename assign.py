@@ -1,2 +1,6 @@
 s=10
-print(s)
+p=5
+print(s+p)
+print(s-p)
+print(s/p)
+print(s*p)
